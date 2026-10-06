@@ -13,7 +13,7 @@ Connecting revenue data, CRM, and AI automation so go-to-market teams can focus 
 
 I work at the intersection of **revenue operations, CRM architecture, and AI automation**. Over the past decade in sales and sales operations, I've built the data foundations, dashboards, and workflows that help commercial teams forecast accurately and spend less time on manual work.
 
-Today I'm Revenue Operations Manager at **Navera**, where I connect customer, product, and revenue data across CRM, billing, and GTM tools, and use AI agents and automation to remove repetitive operational tasks. Before that I worked in sales ops and sales at Taxdoo, Elasticsearch, Parity Technologies, WBS Coding School, and Navitas.
+Today I'm Revenue Operations Manager, where I connect customer, product, and revenue data across CRM, billing, and GTM tools, and use AI agents and automation to remove repetitive operational tasks. Before that I worked in sales ops and sales at Taxdoo, Elasticsearch, Parity Technologies, WBS Coding School, and Navitas.
 
 I hold a Master's in Business Management (Revenue Operations & International Management) from HWR Berlin and a Data Analytics certification from SPICED Academy.
 

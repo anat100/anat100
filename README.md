@@ -37,10 +37,11 @@ I hold a Master's in Business Management (Revenue Operations & International Man
 **Data & Analytics:** SQL, Python (pandas), Tableau, Power BI, A/B testing, statistics
 **RevOps Practice:** revenue metrics, KPI design, data integrity, forecasting, change management
 
+## Featured Projects
 
 ---
 
-### 🔧 Current project: CRM Hygiene Agent + Capacity Check
+### CRM Hygiene Agent + Capacity Check
 A self-hosted n8n workflow that makes CRM data problems visible before they distort a forecast. SQL finds the issues, code does the arithmetic, and the AI only writes the summary, so every number in the report can be traced back to a query.
 
 - Weekly hygiene report emailed to sales leadership
@@ -51,7 +52,6 @@ A self-hosted n8n workflow that makes CRM data problems visible before they dist
 **Repo:** [CRM-Forcasting-Prep-Capacity-Check](https://github.com/anat100/CRM-Forcasting-Prep-Capacity-Check)
 
 ---
-## Featured Projects
 
 ### [GTM AI Agent: $0 Lead Enrichment & ICP Scoring](https://github.com/anat100/Free-AI-Sales-Agent)
 > An n8n workflow that takes an inbound lead, researches the company on the web, scores its fit against your Ideal Customer Profile, drafts a personalized outreach opener, writes the result to HubSpot, and alerts the sales team in Slack or Discord. It runs entirely on free tiers.

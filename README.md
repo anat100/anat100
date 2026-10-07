@@ -37,8 +37,20 @@ I hold a Master's in Business Management (Revenue Operations & International Man
 **Data & Analytics:** SQL, Python (pandas), Tableau, Power BI, A/B testing, statistics
 **RevOps Practice:** revenue metrics, KPI design, data integrity, forecasting, change management
 
+
 ---
 
+### 🔧 Current project: CRM Hygiene Agent + Capacity Check
+A self-hosted n8n workflow that makes CRM data problems visible before they distort a forecast. SQL finds the issues, code does the arithmetic, and the AI only writes the summary, so every number in the report can be traced back to a query.
+
+- Weekly hygiene report emailed to sales leadership
+- Live dashboard with the funnel, stale deals by owner and a 6-week trend
+- Territory/capacity check comparing each AE's accounts and pipeline to the team average
+
+**Stack:** n8n · PostgreSQL · Groq · Gmail
+**Repo:** [CRM-Forcasting-Prep-Capacity-Check](https://github.com/anat100/CRM-Forcasting-Prep-Capacity-Check)
+
+---
 ## Featured Projects
 
 ### [GTM AI Agent: $0 Lead Enrichment & ICP Scoring](https://github.com/anat100/Free-AI-Sales-Agent)
@@ -53,7 +65,6 @@ I hold a Master's in Business Management (Revenue Operations & International Man
 
 `n8n` `HubSpot` `Google Sheets` `JavaScript` `Data Quality`
 
----
 
 ## Get in Touch
 

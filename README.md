@@ -41,15 +41,11 @@ I hold a Master's in Business Management (Revenue Operations & International Man
 
 ---
 
-### CRM Hygiene Agent + Capacity Check
-A self-hosted n8n workflow that makes CRM data problems visible before they distort a forecast. SQL finds the issues, code does the arithmetic, and the AI only writes the summary, so every number in the report can be traced back to a query.
+### [CRM Hygiene Agent + Capacity Check](https://github.com/anat100/CRM-Forcasting-Prep-Capacity-Check)
 
-- Weekly hygiene report emailed to sales leadership
-- Live dashboard with the funnel, stale deals by owner and a 6-week trend
-- Territory/capacity check comparing each AE's accounts and pipeline to the team average
+> An n8n workflow that checks CRM data quality every week (duplicates, stale deals, missing fields), tracks it over time, and emails a plain-English report to sales leadership. It also includes a live dashboard and a territory/capacity check across AEs.
 
-**Stack:** n8n · PostgreSQL · Groq · Gmail
-**Repo:** [CRM-Forcasting-Prep-Capacity-Check](https://github.com/anat100/CRM-Forcasting-Prep-Capacity-Check)
+`n8n` `PostgreSQL` `Groq` `Gmail` `AI Agents`
 
 ---
 
